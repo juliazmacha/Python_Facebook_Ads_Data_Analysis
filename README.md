@@ -11,7 +11,6 @@ This repository contains a Python script for analyzing Facebook ads data. The sc
 - [Usage](#usage)
 - [Data Description](#data-description)
 - [Visualizations](#visualizations)
-- [License](#license)
 
 ## Requirements
 
